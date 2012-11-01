@@ -1,0 +1,6 @@
+delphi/ssl/*
+*.exe
+*.dll
+*.dcu
+*.drc
+*.~*~
